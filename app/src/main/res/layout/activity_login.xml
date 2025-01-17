@@ -35,7 +35,6 @@
             android:textColor="@color/black"
             android:textColorHint="#878787"
             android:textSize="20sp" />
-
         <EditText
             android:id="@+id/Password_input"
             android:layout_width="383dp"
